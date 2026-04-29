@@ -1,3 +1,13 @@
+## 🤝 Collaborative Development & Contributions
+This official implementation of uncertainty-guided semi-supervised learning was collaboratively researched and engineered by **Aman Kumar** and **Latchan Chhetri**. 
+
+**My Core Contributions (Aman Kumar):**
+* Engineered and optimized the semi-supervised learning pipelines for safe medical image classification.
+* Assisted in implementing uncertainty estimation techniques to improve the reliability of the model's predictions.
+* Managed dataset preprocessing, structured the evaluation metrics, and finalized the experimental graphs for publication.
+
+
+
 <div align="center">
 
 # SafeMed-SSL: Uncertainty-Guided Semi-Supervised Learning for Safe Medical Image Classification
